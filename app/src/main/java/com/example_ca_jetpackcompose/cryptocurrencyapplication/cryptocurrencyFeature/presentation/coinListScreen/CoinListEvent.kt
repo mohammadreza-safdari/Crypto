@@ -1,0 +1,4 @@
+package com.example_ca_jetpackcompose.cryptocurrencyapplication.cryptocurrencyFeature.presentation.coinListScreen
+
+class CoinListEvent {
+}
